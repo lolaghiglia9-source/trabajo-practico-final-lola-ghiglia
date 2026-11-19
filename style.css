@@ -12,5 +12,23 @@ body {
     text-align: center;
 }
 
+main {
+    max-width: 800px;
+    margin: 10px auto;
+}
+
+header, nav, main, footer {
+    padding: 20px;
+    margin: 10px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    background: #1E1E24;
+    color: #FFFFFF;
+    overflow: hidden;
+}
 
 
