@@ -69,5 +69,17 @@ section {
     display: flex;
     flex-direction: column;
 }
+footer {
+    text-align: center;
+    font-size: 0.9em;
+    background: #1E1E24;
+    color: #FFFFFF;
+}
+
+footer a {
+    color: #F2A365;
+    margin: 0 10px;
+}
+
 
 
